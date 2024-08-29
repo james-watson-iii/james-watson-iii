@@ -1,4 +1,4 @@
-<h1>Hi, I'm James! I'm passionate about cybersecurity!<br/><a href="https://github.com/james-watson-iii/">Security Guru</a>, <a href="https://www.linkedin.com/in/james-watson-iii/">Cybersecurity Professional</a>
+<h1>Hi, I'm James! I'm passionate about cybersecurity!<br/> <a href="https://www.linkedin.com/in/james-watson-iii/">Cybersecurity and Business Professional</a>
 
 <h2>👨‍💻 My Projects:</h2>
 
