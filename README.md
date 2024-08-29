@@ -1,11 +1,11 @@
-<h1>Hi, I'm James! I'm passionate about cybersecurity!<br/><a href="https://github.com/james-watson-iii">Security Guru</a>, <a href="https://www.linkedin.com/in/james-watson-iii/">Cybersecurity Professional</a>
+<h1>Hi, I'm James! I'm passionate about cybersecurity!<br/><a href="https://github.com/james-watson-iii/">Security Guru</a>, <a href="https://www.linkedin.com/in/james-watson-iii/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Azure / Cloud Cybersecurity Projects</b>
+- <b>Azure / Cloud Cybersecurity</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/james-watson-iii/Azure-SOC-Honeynet)
-- <b>Vulnerability Management Projects</b>
-  - [Coming Soon](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Vulnerability Management</b>
+  - [Coming Soon](https://github.com/james-watson-iii/)
 
 <h2> 🤳 Connect with me:</h2>
 
