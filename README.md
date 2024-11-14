@@ -6,6 +6,8 @@
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/james-watson-iii/Azure-SOC-Honeynet)
 - <b>Vulnerability Management</b>
   - [Coming Soon](https://github.com/james-watson-iii/)
+- <b>Replatforming Cloud Migration Analysis</b>
+  - [Coming Soon](https://github.com/james-watson-iii/)
 
 <h2> 🤳 Connect with me:</h2>
 
