@@ -7,7 +7,7 @@
 - <b>Vulnerability Management</b>
   - [Coming Soon](https://github.com/james-watson-iii/)
 - <b>Replatforming Cloud Migration Analysis</b>
-  - [Coming Soon](https://github.com/james-watson-iii/)
+  - [Cloud Migration Analysis](https://github.com/james-watson-iii/Cloud-Migration-Analysis/)
 
 <h2> 🤳 Connect with me:</h2>
 
