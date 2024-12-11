@@ -7,7 +7,7 @@
 - <b>Vulnerability Management</b>
   - [Coming Soon - Vulnerability Management with Nessus](https://github.com/james-watson-iii/Vulnerability-Management)
 - <b>Replatforming Cloud Migration Analysis</b>
-  - [Cloud Migration Analysis](https://github.com/james-watson-iii/Cloud-Migration-Analysis/)
+  - [On-Premises to Cloud Migration Analysis](https://github.com/james-watson-iii/Cloud-Migration-Analysis/)
 
 <h2> 🤳 Connect with me:</h2>
 
