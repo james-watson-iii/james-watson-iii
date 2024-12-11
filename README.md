@@ -5,7 +5,7 @@
 - <b>Azure / Cloud Cybersecurity</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/james-watson-iii/Azure-SOC-Honeynet)
 - <b>Vulnerability Management</b>
-  - [Coming Soon - Vulnerability Management with Nessus](https://github.com/james-watson-iii/Vulnerability-Management)
+  - [Coming Soon - Vulnerability Management, Detection, and Remediation in Nessus](https://github.com/james-watson-iii/Vulnerability-Management)
 - <b>Replatforming Cloud Migration Analysis</b>
   - [On-Premises to Cloud Migration Analysis](https://github.com/james-watson-iii/Cloud-Migration-Analysis/)
 
