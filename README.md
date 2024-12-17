@@ -1,6 +1,7 @@
-<h1>Hi, I'm James! I'm passionate about cybersecurity!<br/> <a href="https://www.linkedin.com/in/james-watson-iii/">Cybersecurity and Business Professional</a>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/james-watson-iii/">James Watson</a>! Welcome to my IT and Cybersecurity project portfolio!🔐  <br/> 
 
-<h2>👨‍💻 My Projects:</h2>
+## I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From examining a cloud migration to vulnerability management and even creating a honeynet and SOC in the cloud, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!  
+  <h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure / Cloud Cybersecurity</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/james-watson-iii/Azure-SOC-Honeynet)
